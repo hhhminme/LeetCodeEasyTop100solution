@@ -9,3 +9,4 @@
 2. [valid Parenthesis](20.Valid%20Parenthesis.md)
 3. [Merge Two Sorted Lists](21.Merge%Two%Sorted%Lists.md)
 4. [35. Search Insert Position.](35.%20Search%20Insert%20Position.md)
+5. [53. Maximum SubArray](53.%20Maximum%20Subarray.md)
