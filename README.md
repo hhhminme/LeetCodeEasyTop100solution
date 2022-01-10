@@ -11,3 +11,4 @@
 4. [35. Search Insert Position.](35.%20Search%20Insert%20Position.md)
 5. [53. Maximum SubArray](53.%20Maximum%20Subarray.md)
 6. [70. Climbing Stairs](70%20Climbing%20Stairs.md)
+7. [94. Binary Tree Inorder Traversal](94.Binary%20Tree%20Inorder%20Traversal.md)
