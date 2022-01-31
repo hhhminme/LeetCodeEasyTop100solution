@@ -14,3 +14,4 @@
 7. [94. Binary Tree Inorder Traversal](94.Binary%20Tree%20Inorder%20Traversal.md)
 8. [100.Same Tree](100.Same%20Tree.md)
 9. [1672. Richest Customer Wealth](1672.%20Richest%20Customer%20Wealth.md)
+10. [1725. Number Of Rectangles That Can Form The Largest Square](1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.md)
