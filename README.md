@@ -13,3 +13,4 @@
 6. [70. Climbing Stairs](70%20Climbing%20Stairs.md)
 7. [94. Binary Tree Inorder Traversal](94.Binary%20Tree%20Inorder%20Traversal.md)
 8. [100.Same Tree](100.Same%20Tree.md)
+9. [1672. Richest Customer Wealth](1672.%20Richest%20Customer%20Wealth.md)
