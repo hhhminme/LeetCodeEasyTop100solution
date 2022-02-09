@@ -17,3 +17,4 @@
 10. [1725. Number Of Rectangles That Can Form The Largest Square](1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.md)
 11. [999. Available Captures for Rook](999.%20Available%20Captures%20for%20Rook.md)
 12. [338. Counting Bits](338.%20Counting%20Bits.md)
+13. [101. Symmetric Tree](101.%20Symmetric%20Tree.md)
