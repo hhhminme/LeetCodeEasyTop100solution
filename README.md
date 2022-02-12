@@ -18,3 +18,4 @@
 11. [999. Available Captures for Rook](999.%20Available%20Captures%20for%20Rook.md)
 12. [338. Counting Bits](338.%20Counting%20Bits.md)
 13. [101. Symmetric Tree](101.%20Symmetric%20Tree.md)
+14. [104. Maximum Depth of Binary Tree](104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
