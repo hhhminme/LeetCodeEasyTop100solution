@@ -20,3 +20,4 @@
 13. [101. Symmetric Tree](101.%20Symmetric%20Tree.md)
 14. [104. Maximum Depth of Binary Tree](104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
 15. [111.minimum Depth of Binary Tree](111.minimum%20Depth%20of%20Binary%20Tree.md)
+16. [226. Invert Binary Tree](226.%20Invert%20Binary%20Tree.md)
