@@ -22,3 +22,4 @@
 15. [111.minimum Depth of Binary Tree](111.minimum%20Depth%20of%20Binary%20Tree.md)
 16. [226. Invert Binary Tree](226.%20Invert%20Binary%20Tree.md)
 17. [110. Balanced Binary Tree](110.%20Balanced%20Binary%20Tree.md)
+18. [121. Best Time to Buy and Sell Stock](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
