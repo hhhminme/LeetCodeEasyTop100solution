@@ -23,3 +23,4 @@
 16. [226. Invert Binary Tree](226.%20Invert%20Binary%20Tree.md)
 17. [110. Balanced Binary Tree](110.%20Balanced%20Binary%20Tree.md)
 18. [121. Best Time to Buy and Sell Stock](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
+19. [118. Pascal's Triangle](118.%20Pascal's%20Triangle.md)
